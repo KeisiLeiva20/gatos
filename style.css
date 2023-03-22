@@ -1,0 +1,39 @@
+h2 {
+    color: blue;
+    font-family: 'Ephesis', cursive;
+    font-size: 40px;
+
+}
+
+.imagen-de-gatos {
+  width: 200px;
+}
+
+h3 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+}
+
+p {
+    color: turquoise;
+    font-size: 30px;
+}
+
+ul {
+  color: palegreen;
+  font-size: 30px;
+}
+
+ol {
+  color: chocolate;
+  font-size: 30px;
+}
+img {
+  width: 300px;
+  
+  
+}
+
+
+
